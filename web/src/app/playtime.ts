@@ -53,7 +53,8 @@ export class PlayTime {
   /** the message asked for in this game, 0: none */
   private asked = 0;
   /** the last message in the game's inbox (PLAY_SMS: 1 before 2026-11-05 too): after the last, only the count goes on */
-  private sent = Math.max(0, Math.floor(Number(localStore.get(PLAY_SMS)) || 0));
+  // nfsu2.fractumseraph.net: the messages name the author's Ko-fi (runtime/sms.c), so neither is ever asked for
+  private sent = HUNDRED;
   /** the second message only in a game after the first's (not both at once) */
   private readonly sentBefore = this.sent;
 

@@ -565,7 +565,7 @@ export class PhotoMode {
       ['.ph-blur-l', N('Blur')], ['.ph-focus-l', N('Focus')], ['.ph-shutter-l', N('Shutter')], ['.ph-lens-l', N('Lens')],
       ['.ph-shiftY-l', N('Shift up, down')], ['.ph-shiftX-l', N('Shift sideways')],
       ['.ph-exposure-l', N('Brightness')], ['.ph-vignette-l', N('Vignette')], ['.ph-filter-l', N('Filter')], ['.ph-crop-l', N('Crop')],
-      ['.ph-size-l', N('Size')], ['.ph-grid-l', N('Grid')], ['.ph-mark-l', N('nfsu2.xyz on pictures')],
+      ['.ph-size-l', N('Size')], ['.ph-grid-l', N('Grid')], ['.ph-mark-l', N('nfsu2.fractumseraph.net on pictures')],
       ['.ph-freeze-l', N('Freeze time')], ['.ph-cars-l', N('Cars')], ['.ph-show-mine-l', N('Your car')], ['.ph-show-friends-l', N('Friends')],
       ['.ph-show-crews-l', N('Crews')], ['.ph-show-players-l', N('Players')], ['.ph-show-traffic-l', N('Traffic')],
       ['.ph-show-racers-l', N('Racers')], ['.ph-lights-l', N("Other cars' headlights")], ['.ph-names-l', N('Names')],
